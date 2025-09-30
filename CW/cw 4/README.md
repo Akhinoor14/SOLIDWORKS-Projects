@@ -6,13 +6,38 @@ Fourth classwork assignment from Day 02, representing the culmination of advance
 ## 🖼️ Preview
 ![Design Preview](cw%20%20DAY%2002%2C%2002.JPG)
 
-## 📂 File Contents
+## � **Quick Access & Download**
+
+<div align="center">
+
+### 📥 **Download SOLIDWORKS File**
+[![Download SOLIDWORKS File](https://img.shields.io/badge/📥_Download-SOLIDWORKS_File-gold?style=for-the-badge&logo=download)](cw%20%20DAY%2002%2C%2002.SLDPRT)
+
+### 🌐 **Interactive 3D Model**
+[![View 3D Model](https://img.shields.io/badge/🌐_View-3D_Model-success?style=for-the-badge&logo=3d)](cw%20%20DAY%2002%2C%2002.glb)
+
+**Direct File Access:** [🔧 `cw  DAY 02, 02.SLDPRT`](cw%20%20DAY%2002%2C%2002.SLDPRT) | [🌐 `3D Model (GLB)`](cw%20%20DAY%2002%2C%2002.glb)
+
+---
+
+### 🎯 **Quick Navigation**
+| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
+|:---:|:---:|:---:|
+| 🔧 **SOLIDWORKS** | `cw  DAY 02, 02.SLDPRT` | [📥 **Download**](cw%20%20DAY%2002%2C%2002.SLDPRT) |
+| 🌐 **3D Model** | `cw  DAY 02, 02.glb` | [🌐 **View 3D**](cw%20%20DAY%2002%2C%2002.glb) |
+| 🖼️ **Preview** | `cw  DAY 02, 02.JPG` | [🖼️ **View Image**](cw%20%20DAY%2002%2C%2002.JPG) |
+
+</div>
+
+## �📂 File Contents
 
 ### 🔧 SOLIDWORKS Files
 - **`cw  DAY 02, 02.SLDPRT`** - Main SOLIDWORKS part file for advanced Day 02 assignment
+  - 📥 **[Direct Download Link](cw%20%20DAY%2002%2C%2002.SLDPRT)**
 
 ### 🌐 3D Interactive Models
 - **`cw  DAY 02, 02.glb`** - Interactive 3D model (GLB format) for web and mobile viewing
+  - 🌐 **[View Interactive 3D Model](cw%20%20DAY%2002%2C%2002.glb)**
 
 ### 📸 Visual Documentation
 - **`cw  DAY 02, 02.JPG`** - Professional-grade design preview image

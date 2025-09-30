@@ -6,10 +6,30 @@ First independent homework assignment designed to reinforce fundamental SOLIDWOR
 ## 🖼️ Preview
 ![Design Preview](hw%201.png)
 
-## 📂 File Contents
+## � **Quick Access & Download**
+
+<div align="center">
+
+### 📥 **Download SOLIDWORKS File**
+[![Download SOLIDWORKS File](https://img.shields.io/badge/📥_Download-SOLIDWORKS_File-red?style=for-the-badge&logo=download)](HW%201.SLDPRT)
+
+**Direct File Access:** [🔧 `HW 1.SLDPRT`](HW%201.SLDPRT)
+
+---
+
+### 🎯 **Quick Navigation**
+| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
+|:---:|:---:|:---:|
+| 🔧 **SOLIDWORKS** | `HW 1.SLDPRT` | [📥 **Download**](HW%201.SLDPRT) |
+| 🖼️ **Preview** | `hw 1.png` | [🖼️ **View Preview**](hw%201.png) |
+
+</div>
+
+## �📂 File Contents
 
 ### 🔧 SOLIDWORKS Files
 - **`HW 1.SLDPRT`** - Main SOLIDWORKS part file for homework assignment 1
+  - 📥 **[Direct Download Link](HW%201.SLDPRT)**
 
 ### 📸 Visual Documentation
 - **`hw 1.png`** - Detailed preview image of the completed homework design

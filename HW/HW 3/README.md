@@ -6,14 +6,40 @@ Third homework assignment from Day 02 curriculum, introducing 3D export workflow
 ## 🖼️ Preview
 ![Design Preview](HW%203%20DAY%2002%2C%2001.JPG)
 
-## 📂 File Contents
+## � **Quick Access & Download**
+
+<div align="center">
+
+### 📥 **Download SOLIDWORKS File**
+[![Download SOLIDWORKS File](https://img.shields.io/badge/📥_Download-SOLIDWORKS_File-blue?style=for-the-badge&logo=download)](HW%203%20DAY%2002%2C%2001.SLDPRT)
+
+### 🌐 **Interactive 3D Model**
+[![View 3D Model](https://img.shields.io/badge/🌐_View-3D_Model-success?style=for-the-badge&logo=3d)](hw_3_day_02%2C_01.glb)
+
+**Direct File Access:** [🔧 `HW 3 DAY 02, 01.SLDPRT`](HW%203%20DAY%2002%2C%2001.SLDPRT) | [🌐 `3D Model (GLB)`](hw_3_day_02%2C_01.glb)
+
+---
+
+### 🎯 **Quick Navigation**
+| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
+|:---:|:---:|:---:|
+| 🔧 **SOLIDWORKS** | `HW 3 DAY 02, 01.SLDPRT` | [📥 **Download**](HW%203%20DAY%2002%2C%2001.SLDPRT) |
+| 🌐 **3D Model** | `hw_3_day_02,_01.glb` | [🌐 **View 3D**](hw_3_day_02%2C_01.glb) |
+| 🖼️ **Preview** | `HW 3 DAY 02, 01.JPG` | [🖼️ **View**](HW%203%20DAY%2002%2C%2001.JPG) |
+| 📷 **Additional** | `HW 3 DAY 02, 01 ,,.JPG` | [🖼️ **View**](HW%203%20DAY%2002%2C%2001%20%2C%2C.JPG) |
+
+</div>
+
+## �📂 File Contents
 
 ### 🔧 SOLIDWORKS Files
 - **`HW 3 DAY 02, 01.SLDPRT`** - Advanced SOLIDWORKS part file for Day 02 homework
+  - 📥 **[Direct Download Link](HW%203%20DAY%2002%2C%2001.SLDPRT)**
 - **`HW 3 DAY 02, 01 ,,.JPG`** - Additional design documentation image
 
 ### 🌐 3D Interactive Models
 - **`hw_3_day_02,_01.glb`** - Interactive 3D model file (GLB format) for web viewing
+  - 🌐 **[View Interactive 3D Model](hw_3_day_02%2C_01.glb)**
 
 ### 📸 Visual Documentation
 - **`HW 3 DAY 02, 01.JPG`** - Primary high-resolution design preview

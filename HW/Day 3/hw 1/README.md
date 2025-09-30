@@ -1,6 +1,30 @@
 # HW Day 3 - Homework 1
+## 🚀 **Quick Access & Download**
 
-## 📋 Project Overview
+<div align="center">
+
+### 📥 **Download SOLIDWORKS File**
+[![Download SOLIDWORKS File](https://img.shields.io/badge/📥_Download-SOLIDWORKS_File-blue?style=for-the-badge&logo=download)](hw%20day%203%2C%2001.SLDPRT)
+
+**Direct File Access:** [🔧 `hw day 3, 01.SLDPRT`](hw%20day%203%2C%2001.SLDPRT)
+
+---
+
+### 🎯 **Quick Navigation**
+| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
+|:---:|:---:|:---:|
+| 🔧 **SOLIDWORKS** | `hw day 3, 01.SLDPRT` | [📥 **Download**](hw%20day%203%2C%2001.SLDPRT) |
+| 📸 **Screenshot** | `Screenshot 2025-09-30 152956.png` | [🖼️ **View**](Screenshot%202025-09-30%20152956.png) |
+| 📚 **Reference 1** | `WhatsApp Image...72839ba7.jpg` | [🔍 **View**](WhatsApp%20Image%202025-09-27%20at%2012.23.38_72839ba7.jpg) |
+| 📚 **Reference 2** | `WhatsApp Image...f9f3b8b3.jpg` | [🔍 **View**](WhatsApp%20Image%202025-09-28%20at%2012.10.26_f9f3b8b3.jpg) |
+
+</div>
+
+## 📂 File Contents
+
+### 🔧 SOLIDWORKS Files
+- **`hw day 3, 01.SLDPRT`** - Main SOLIDWORKS part file for homework assignment 1
+  - 📥 **[Direct Download Link](hw%20day%203%2C%2001.SLDPRT)** 📋 Project Overview
 This folder contains the first homework assignment from Day 3, including SOLIDWORKS part files, screenshots, and reference materials.
 
 ## �️ Interactive Design Preview

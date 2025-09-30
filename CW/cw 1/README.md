@@ -6,10 +6,30 @@ First classwork assignment focusing on fundamental SOLIDWORKS modeling technique
 ## 🖼️ Preview
 ![Design Preview](cw%201.png)
 
-## 📂 File Contents
+## � **Quick Access & Download**
+
+<div align="center">
+
+### 📥 **Download SOLIDWORKS File**
+[![Download SOLIDWORKS File](https://img.shields.io/badge/📥_Download-SOLIDWORKS_File-red?style=for-the-badge&logo=download)](cWW1.SLDPRT)
+
+**Direct File Access:** [🔧 `cWW1.SLDPRT`](cWW1.SLDPRT)
+
+---
+
+### 🎯 **Quick Navigation**
+| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
+|:---:|:---:|:---:|
+| 🔧 **SOLIDWORKS** | `cWW1.SLDPRT` | [📥 **Download**](cWW1.SLDPRT) |
+| 🖼️ **Preview** | `cw 1.png` | [🖼️ **View Preview**](cw%201.png) |
+
+</div>
+
+## �📂 File Contents
 
 ### 🔧 SOLIDWORKS Files
 - **`cWW1.SLDPRT`** - Main SOLIDWORKS part file for this classwork assignment
+  - 📥 **[Direct Download Link](cWW1.SLDPRT)**
 
 ### 📸 Visual Documentation
 - **`cw 1.png`** - High-quality preview image of the completed design

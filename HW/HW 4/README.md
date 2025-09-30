@@ -6,13 +6,38 @@ Final capstone homework assignment from Day 02, representing the culmination of 
 ## 🖼️ Preview
 ![Design Preview](HW%204%20DAY%2002%2C%2002.JPG)
 
-## 📂 File Contents
+## � **Quick Access & Download**
+
+<div align="center">
+
+### 📥 **Download SOLIDWORKS File**
+[![Download SOLIDWORKS File](https://img.shields.io/badge/📥_Download-SOLIDWORKS_File-gold?style=for-the-badge&logo=download)](HW%204%20DAY%2002%2C%2002.SLDPRT)
+
+### 🌐 **Interactive 3D Model**
+[![View 3D Model](https://img.shields.io/badge/🌐_View-3D_Model-success?style=for-the-badge&logo=3d)](hw_4_day_02%2C_02.glb)
+
+**Direct File Access:** [🔧 `HW 4 DAY 02, 02.SLDPRT`](HW%204%20DAY%2002%2C%2002.SLDPRT) | [🌐 `3D Model (GLB)`](hw_4_day_02%2C_02.glb)
+
+---
+
+### 🎯 **Quick Navigation**
+| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
+|:---:|:---:|:---:|
+| 🔧 **SOLIDWORKS** | `HW 4 DAY 02, 02.SLDPRT` | [📥 **Download**](HW%204%20DAY%2002%2C%2002.SLDPRT) |
+| 🌐 **3D Model** | `hw_4_day_02,_02.glb` | [🌐 **View 3D**](hw_4_day_02%2C_02.glb) |
+| 🖼️ **Preview** | `HW 4 DAY 02, 02.JPG` | [🖼️ **View**](HW%204%20DAY%2002%2C%2002.JPG) |
+
+</div>
+
+## �📂 File Contents
 
 ### 🔧 SOLIDWORKS Files
 - **`HW 4 DAY 02, 02.SLDPRT`** - Capstone SOLIDWORKS part file demonstrating mastery
+  - 📥 **[Direct Download Link](HW%204%20DAY%2002%2C%2002.SLDPRT)**
 
 ### 🌐 Professional 3D Models
 - **`hw_4_day_02,_02.glb`** - Professional-grade interactive 3D model (GLB format)
+  - 🌐 **[View Interactive 3D Model](hw_4_day_02%2C_02.glb)**
 
 ### 📸 Professional Documentation
 - **`HW 4 DAY 02, 02.JPG`** - Master-level design preview and documentation

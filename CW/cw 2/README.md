@@ -6,10 +6,30 @@ Second classwork assignment building upon fundamental concepts with more advance
 ## 🖼️ Preview
 ![Design Preview](cw%202.png)
 
-## 📂 File Contents
+## � **Quick Access & Download**
+
+<div align="center">
+
+### 📥 **Download SOLIDWORKS File**
+[![Download SOLIDWORKS File](https://img.shields.io/badge/📥_Download-SOLIDWORKS_File-brightgreen?style=for-the-badge&logo=download)](cw2.SLDPRT)
+
+**Direct File Access:** [🔧 `cw2.SLDPRT`](cw2.SLDPRT)
+
+---
+
+### 🎯 **Quick Navigation**
+| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
+|:---:|:---:|:---:|
+| 🔧 **SOLIDWORKS** | `cw2.SLDPRT` | [📥 **Download**](cw2.SLDPRT) |
+| 🖼️ **Preview** | `cw 2.png` | [🖼️ **View Preview**](cw%202.png) |
+
+</div>
+
+## �📂 File Contents
 
 ### 🔧 SOLIDWORKS Files
 - **`cw2.SLDPRT`** - Main SOLIDWORKS part file for this classwork assignment
+  - 📥 **[Direct Download Link](cw2.SLDPRT)**
 
 ### 📸 Visual Documentation
 - **`cw 2.png`** - High-quality preview image of the completed design

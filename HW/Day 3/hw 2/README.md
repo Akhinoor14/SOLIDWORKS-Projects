@@ -1,6 +1,29 @@
-# HW Day 3 - Homework 2
+# HW Day 3 - Homework 2## 🚀 **Quick Access & Download**
 
-## 📋 Project Overview
+<div align="center">
+
+### 📥 **Download SOLIDWORKS File**
+[![Download SOLIDWORKS File](https://img.shields.io/badge/📥_Download-SOLIDWORKS_File-green?style=for-the-badge&logo=download)](hw%20day%203%2C%2002.SLDPRT)
+
+**Direct File Access:** [🔧 `hw day 3, 02.SLDPRT`](hw%20day%203%2C%2002.SLDPRT)
+
+---
+
+### 🎯 **Quick Navigation**
+| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
+|:---:|:---:|:---:|
+| 🔧 **SOLIDWORKS** | `hw day 3, 02.SLDPRT` | [📥 **Download**](hw%20day%203%2C%2002.SLDPRT) |
+| 📸 **Progress** | `Screenshot 2025-09-30 152531.png` | [🖼️ **View**](Screenshot%202025-09-30%20152531.png) |
+| 📷 **Additional** | `image.png` | [🖼️ **View**](image.png) |
+| 📚 **Reference** | `WhatsApp Image...72839ba7.jpg` | [🔍 **View**](WhatsApp%20Image%202025-09-27%20at%2012.23.38_72839ba7.jpg) |
+
+</div>
+
+## 📂 File Contents
+
+### 🔧 SOLIDWORKS Files
+- **`hw day 3, 02.SLDPRT`** - Main SOLIDWORKS part file for homework assignment 2
+  - 📥 **[Direct Download Link](hw%20day%203%2C%2002.SLDPRT)**# 📋 Project Overview
 This folder contains the second homework assignment from Day 3, featuring SOLIDWORKS modeling work with comprehensive documentation.
 
 ## �️ Interactive Design Gallery

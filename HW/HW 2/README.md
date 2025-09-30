@@ -14,10 +14,32 @@ Second homework assignment featuring comprehensive multi-view documentation, dem
 ### View 3: Detail/Cross-Section View
 ![Detail View](2.3.png)
 
-## 📂 File Contents
+## � **Quick Access & Download**
+
+<div align="center">
+
+### 📥 **Download SOLIDWORKS File**
+[![Download SOLIDWORKS File](https://img.shields.io/badge/📥_Download-SOLIDWORKS_File-brightgreen?style=for-the-badge&logo=download)](HW%202.SLDPRT)
+
+**Direct File Access:** [🔧 `HW 2.SLDPRT`](HW%202.SLDPRT)
+
+---
+
+### 🎯 **Quick Navigation**
+| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
+|:---:|:---:|:---:|
+| 🔧 **SOLIDWORKS** | `HW 2.SLDPRT` | [📥 **Download**](HW%202.SLDPRT) |
+| 🖼️ **Preview 1** | `2.1.png` | [🖼️ **View**](2.1.png) |
+| 🖼️ **Preview 2** | `2.2.png` | [🖼️ **View**](2.2.png) |
+| 🖼️ **Preview 3** | `2.3.png` | [🖼️ **View**](2.3.png) |
+
+</div>
+
+## �📂 File Contents
 
 ### 🔧 SOLIDWORKS Files
 - **`HW 2.SLDPRT`** - Main SOLIDWORKS part file with advanced modeling features
+  - 📥 **[Direct Download Link](HW%202.SLDPRT)**
 
 ### 📸 Comprehensive Visual Documentation
 - **`2.1.png`** - Primary design view showing main features

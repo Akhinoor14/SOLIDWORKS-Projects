@@ -1,6 +1,32 @@
 # CW Day 03 - Classwork 2
 
-## 📋 Project Overview
+## 📋 ## 🚀 **Quick Access & Download**
+
+<div align="center">
+
+### 📥 **Download SOLIDWORKS File**
+[![Download SOLIDWORKS File](https://img.shields.io/badge/📥_Download-SOLIDWORKS_File-purple?style=for-the-badge&logo=download)](cw%2002%2C%20day%2003.SLDPRT)
+
+**Direct File Access:** [🔧 `cw 02, day 03.SLDPRT`](cw%2002%2C%20day%2003.SLDPRT)
+
+---
+
+### 🎯 **Quick Navigation**
+| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
+|:---:|:---:|:---:|
+| 🔧 **SOLIDWORKS** | `cw 02, day 03.SLDPRT` | [📥 **Download**](cw%2002%2C%20day%2003.SLDPRT) |
+| 📸 **Screenshot 1** | `Screenshot 2025-09-30 153143.png` | [🖼️ **View**](Screenshot%202025-09-30%20153143.png) |
+| 📸 **Screenshot 2** | `Screenshot 2025-09-30 153214.png` | [🖼️ **View**](Screenshot%202025-09-30%20153214.png) |
+| 📚 **Reference 1** | `WhatsApp Image...67a9ddc1.jpg` | [🔍 **View**](WhatsApp%20Image%202025-09-27%20at%2012.23.38_67a9ddc1.jpg) |
+| 📚 **Reference 2** | `WhatsApp Image...81796c7f.jpg` | [🔍 **View**](WhatsApp%20Image%202025-09-27%20at%2012.08.26_81796c7f.jpg) |
+
+</div>
+
+## 📂 File Contents
+
+### 🔧 SOLIDWORKS Files
+- **`cw 02, day 03.SLDPRT`** - Main SOLIDWORKS part file for this assignment
+  - 📥 **[Direct Download Link](cw%2002%2C%20day%2003.SLDPRT)**ect Overview
 This folder contains the second classwork assignment from Day 03, including SOLIDWORKS part files, screenshots, and reference images.
 
 ## �️ Interactive Design Gallery
