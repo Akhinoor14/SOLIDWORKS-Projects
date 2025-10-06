@@ -63,6 +63,7 @@ This repository showcases a comprehensive collection of SOLIDWORKS projects feat
 | **HW 4** | [📥 Download](HW/HW%204/HW%204%20DAY%2002%2C%2002.SLDPRT) | [🖼️ View](HW/HW%204/HW%204%20DAY%2002%2C%2002.JPG) | [🌐 View 3D](HW/HW%204/hw_4_day_02%2C_02.glb) | [📖 Read More](HW/HW%204/README.md) |
 | **HW Day 3-1** | [📥 Download](HW/Day%203/hw%201/hw%20day%203%2C%2001.SLDPRT) | [🖼️ Multi-View](HW/Day%203/hw%201/README.md) | - | [📖 Read More](HW/Day%203/hw%201/README.md) |
 | **HW Day 3-2** | [📥 Download](HW/Day%203/hw%202/hw%20day%203%2C%2002.SLDPRT) | [🖼️ Multi-View](HW/Day%203/hw%202/README.md) | - | [📖 Read More](HW/Day%203/hw%202/README.md) |
+| **Chutir Extra HW** | [📥 Download Assembly](HW/Chutir%20extra%20hw/Assem1.SLDASM) <br> [📥 Bolt](HW/Chutir%20extra%20hw/bolt.SLDPRT) <br> [📥 Nut](HW/Chutir%20extra%20hw/nut.SLDPRT) | - | - | [📖 Read More](HW/Chutir%20extra%20hw/README.md) |
 
 </div>
 
@@ -131,6 +132,7 @@ SOLIDWORKS-Projects/
 │   ├── 📁 HW 2/ ✅ Multi-view documentation
 │   ├── 📁 HW 3/ ✅ Advanced homework + 3D export  
 │   ├── 📁 HW 4/ ✅ Mastery demonstration
+│   ├── 📁 Chutir extra hw/ ✅ Holiday special assembly and parts
 │   └── 📁 Day 3/
 │       ├── 📁 hw 1/ ✅ Independent practice 1
 │       └── 📁 hw 2/ ✅ Independent practice 2
