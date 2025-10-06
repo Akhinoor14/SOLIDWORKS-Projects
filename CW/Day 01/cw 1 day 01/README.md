@@ -1,43 +1,30 @@
+
 # CW 1 - Classwork Assignment 1
 
 ## 📋 Project Overview
 First classwork assignment focusing on fundamental SOLIDWORKS modeling techniques and basic part creation.
 
-## 🖼️ Preview
-![Design Preview](cw%201.png)
+---
 
-## � **Quick Access & Download**
-
-<div align="center">
-
-### 📥 **Download SOLIDWORKS File**
-[![Download SOLIDWORKS File](https://img.shields.io/badge/📥_Download-SOLIDWORKS_File-red?style=for-the-badge&logo=download)](cWW1.SLDPRT)
-
-**Direct File Access:** [🔧 `cWW1.SLDPRT`](cWW1.SLDPRT)
+| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
+|:---:|:---:|:---:|
+| 🔧 **SOLIDWORKS** | `cWW1.SLDPRT` | [📥 Download](cWW1.SLDPRT) |
+| 🖼️ **Preview** | `cw 1.png` | ![Preview](cw%201.png) |
 
 ---
 
-### 🎯 **Quick Navigation**
-| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
-|:---:|:---:|:---:|
-| 🔧 **SOLIDWORKS** | `cWW1.SLDPRT` | [📥 **Download**](cWW1.SLDPRT) |
-| 🖼️ **Preview** | `cw 1.png` | [🖼️ **View Preview**](cw%201.png) |
+## 📂 File Contents
 
-</div>
+- **`cWW1.SLDPRT`** — Main SOLIDWORKS part file for this classwork assignment
+- **`cw 1.png`** — High-quality preview image of the completed design
 
-## �📂 File Contents
+---
 
-### 🔧 SOLIDWORKS Files
-- **`cWW1.SLDPRT`** - Main SOLIDWORKS part file for this classwork assignment
-  - 📥 **[Direct Download Link](cWW1.SLDPRT)**
+**Assignment:** CW 1  
+**Type:** Classwork  
+**Status:** Completed ✅
 
-### 📸 Visual Documentation
-- **`cw 1.png`** - High-quality preview image of the completed design
-
-## 🎯 Assignment Details
-- **Assignment:** CW 1 
-- **Type:** Classwork
-- **Status:** Completed ✅
+*Auto-updated: October 7, 2025*
 - **Focus:** Basic SOLIDWORKS modeling fundamentals
 
 ## 📋 File Structure
