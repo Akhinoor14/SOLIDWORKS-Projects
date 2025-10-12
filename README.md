@@ -42,10 +42,10 @@ This repository showcases a comprehensive collection of SOLIDWORKS projects feat
 
 | 📋 **Project** | 📥 **Download** | 🖼️ **Preview** | 🌐 **3D Model** | 📂 **Details** |
 |:---:|:---:|:---:|:---:|:---:|
-| **CW 1** | [📥 Download](CW/Day%2001/cw%201%20day%2001/cWW1.SLDPRT) | [🖼️ View](CW/Day%2001/cw%201%20day%2001/cw%201.png) | - | [📖 Read More](CW/Day%2001/cw%201%20day%2001/README.md) |
-| **CW 2** | [📥 Download](CW/Day%2001/cw%202%20day%2001/cw2.SLDPRT) | [🖼️ View](CW/Day%2001/cw%202%20day%2001/cw%202.png) | - | [📖 Read More](CW/Day%2001/cw%202%20day%2001/README.md) |
-| **CW 3** | [📥 Download](CW/Day%2002/cw%201%20day%2002/cw%203%20DAY%2002,%2001.SLDPRT) | [🖼️ View](CW/Day%2002/cw%201%20day%2002/cw%203%20DAY%2002,%2001.JPG) | [🌐 View 3D](CW/Day%2002/cw%201%20day%2002/cw_3_day_02,_01.glb) | [📖 Read More](CW/Day%2002/cw%201%20day%2002/README.md) |
-| **CW 4** | [📥 Download](CW/Day%2002/cw%202%20day%2002/cw%20%20DAY%2002,%2002.SLDPRT) | [🖼️ View](CW/Day%2002/cw%202%20day%2002/cw%20%20DAY%2002,%2002.JPG) | [🌐 View 3D](CW/Day%2002/cw%202%20day%2002/cw%20%20DAY%2002,%2002.glb) | [📖 Read More](CW/Day%2002/cw%202%20day%2002/README.md) |
+| **CW Day 01-1** | [📥 Download](CW/Day%2001/cw%201%20day%2001/cWW1.SLDPRT) | [🖼️ View](CW/Day%2001/cw%201%20day%2001/cw%201.png) | - | [📖 Read More](CW/Day%2001/cw%201%20day%2001/README.md) |
+| **CW Day 01-2** | [📥 Download](CW/Day%2001/cw%202%20day%2001/cw2.SLDPRT) | [🖼️ View](CW/Day%2001/cw%202%20day%2001/cw%202.png) | - | [📖 Read More](CW/Day%2001/cw%202%20day%2001/README.md) |
+| **CW Day 02-1** | [📥 Download](CW/Day%2002/cw%201%20day%2002/cw%203%20DAY%2002,%2001.SLDPRT) | [🖼️ View](CW/Day%2002/cw%201%20day%2002/cw%203%20DAY%2002,%2001.JPG) | [🌐 View 3D](CW/Day%2002/cw%201%20day%2002/cw_3_day_02,_01.glb) | [📖 Read More](CW/Day%2002/cw%201%20day%2002/README.md) |
+| **CW Day 02-2** | [📥 Download](CW/Day%2002/cw%202%20day%2002/cw%20%20DAY%2002,%2002.SLDPRT) | [🖼️ View](CW/Day%2002/cw%202%20day%2002/cw%20%20DAY%2002,%2002.JPG) | [🌐 View 3D](CW/Day%2002/cw%202%20day%2002/cw%20%20DAY%2002,%2002.glb) | [📖 Read More](CW/Day%2002/cw%202%20day%2002/README.md) |
 | **CW Day 03-1** | [📥 Download](CW/Day%2003/cw%201%20day%2003/cw%2001,%20day%2003.SLDPRT) | [🖼️ Multi-View](CW/Day%2003/cw%201%20day%2003/README.md) | - | [📖 Read More](CW/Day%2003/cw%201%20day%2003/README.md) |
 | **CW Day 03-2** | [📥 Download](CW/Day%2003/cw%202%20day%2003/cw%2002,%20day%2003.SLDPRT) | [🖼️ Multi-View](CW/Day%2003/cw%202%20day%2003/README.md) | - | [📖 Read More](CW/Day%2003/cw%202%20day%2003/README.md) |
 | **CW Day 04-1** | [📥 Download](CW/Day%2004/cw%201%20day%204/cw%2001.SLDPRT) | [🖼️ View](CW/Day%2004/cw%201%20day%204/Screenshot%202025-10-13%20032712.png) | - | [📖 Read More](CW/Day%2004/cw%201%20day%204/README.md) |
@@ -60,10 +60,10 @@ This repository showcases a comprehensive collection of SOLIDWORKS projects feat
 
 | 📋 **Project** | 📥 **Download** | 🖼️ **Preview** | 🌐 **3D Model** | 📂 **Details** |
 |:---:|:---:|:---:|:---:|:---:|
-| **HW 1** | [📥 Download](HW/Day%2001/hw%2001%20day%2001/HW%201.SLDPRT) | [🖼️ View](HW/Day%2001/hw%2001%20day%2001/hw%201.png) | - | [📖 Read More](HW/Day%2001/hw%2001%20day%2001/README.md) |
-| **HW 2** | [📥 Download](HW/Day%2001/hw%2002%20day%2001/HW%202.SLDPRT) | [🖼️ Multi-View](HW/Day%2001/hw%2002%20day%2001/README.md) | - | [📖 Read More](HW/Day%2001/hw%2002%20day%2001/README.md) |
-| **HW 3** | [📥 Download](HW/Day%2002/hw%2001%20day%2002/HW%203%20DAY%2002,%2001.SLDPRT) | [🖼️ View](HW/Day%2002/hw%2001%20day%2002/HW%203%20DAY%2002,%2001.JPG) | [🌐 View 3D](HW/Day%2002/hw%2001%20day%2002/hw_3_day_02,_01.glb) | [📖 Read More](HW/Day%2002/hw%2001%20day%2002/README.md) |
-| **HW 4** | [📥 Download](HW/Day%2002/hw%2002%20day%2002/HW%204%20DAY%2002,%2002.SLDPRT) | [🖼️ View](HW/Day%2002/hw%2002%20day%2002/HW%204%20DAY%2002,%2002.JPG) | [🌐 View 3D](HW/Day%2002/hw%2002%20day%2002/hw_4_day_02,_02.glb) | [📖 Read More](HW/Day%2002/hw%2002%20day%2002/README.md) |
+| **HW Day 01-1** | [📥 Download](HW/Day%2001/hw%2001%20day%2001/HW%201.SLDPRT) | [🖼️ View](HW/Day%2001/hw%2001%20day%2001/hw%201.png) | - | [📖 Read More](HW/Day%2001/hw%2001%20day%2001/README.md) |
+| **HW Day 01-2** | [📥 Download](HW/Day%2001/hw%2002%20day%2001/HW%202.SLDPRT) | [🖼️ Multi-View](HW/Day%2001/hw%2002%20day%2001/README.md) | - | [📖 Read More](HW/Day%2001/hw%2002%20day%2001/README.md) |
+| **HW Day 02-1** | [📥 Download](HW/Day%2002/hw%2001%20day%2002/HW%203%20DAY%2002,%2001.SLDPRT) | [🖼️ View](HW/Day%2002/hw%2001%20day%2002/HW%203%20DAY%2002,%2001.JPG) | [🌐 View 3D](HW/Day%2002/hw%2001%20day%2002/hw_3_day_02,_01.glb) | [📖 Read More](HW/Day%2002/hw%2001%20day%2002/README.md) |
+| **HW Day 02-2** | [📥 Download](HW/Day%2002/hw%2002%20day%2002/HW%204%20DAY%2002,%2002.SLDPRT) | [🖼️ View](HW/Day%2002/hw%2002%20day%2002/HW%204%20DAY%2002,%2002.JPG) | [🌐 View 3D](HW/Day%2002/hw%2002%20day%2002/hw_4_day_02,_02.glb) | [📖 Read More](HW/Day%2002/hw%2002%20day%2002/README.md) |
 | **HW Day 3-1** | [📥 Download](HW/Day%2003/hw%201%20day%2003/hw%20day%203,%2001.SLDPRT) | [🖼️ Multi-View](HW/Day%2003/hw%201%20day%2003/README.md) | - | [📖 Read More](HW/Day%2003/hw%201%20day%2003/README.md) |
 | **HW Day 3-2** | [📥 Download](HW/Day%2003/hw%202%20day%2003/hw%20day%203,%2002.SLDPRT) | [🖼️ Multi-View](HW/Day%2003/hw%202%20day%2003/README.md) | - | [📖 Read More](HW/Day%2003/hw%202%20day%2003/README.md) |
 | **HW Day 4-1** | [📥 Download](HW/Day%2004/hw%201%20day%204/02.SLDPRT) | [🖼️ Multi-View](HW/Day%2004/hw%201%20day%204/README.md) | - | [📖 Read More](HW/Day%2004/hw%201%20day%204/README.md) |
