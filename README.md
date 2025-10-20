@@ -38,8 +38,8 @@ This repository showcases a comprehensive collection of SOLIDWORKS projects feat
 | **CW Day 04-1** | [📥 Download](CW/Day%2004/cw%201%20day%204/cw%2001.SLDPRT) | [🖼️ View](CW/Day%2004/cw%201%20day%204/Screenshot%202025-10-13%20032712.png) | - | [📖 Read More](CW/Day%2004/cw%201%20day%204/README.md) |
 | **CW Day 04-2** | [📥 Download](CW/Day%2004/cw%202%20day%204/cw%2002.SLDPRT) | [🖼️ View](CW/Day%2004/cw%202%20day%204/Screenshot%202025-10-13%20032801.png) | - | [📖 Read More](CW/Day%2004/cw%202%20day%204/README.md) |
 | **CW Day 04 - Spot Test** | [📥 Download](CW/Day%2004/spot%20test%20Day%2004/cw%20spot%20test.SLDPRT) | [🖼️ View](CW/Day%2004/spot%20test%20Day%2004/Screenshot%202025-10-13%20032734.png) | - | [📖 Read More](CW/Day%2004/spot%20test%20Day%2004/README.md) |
-| **CW Day 05-1** | [📥 Download](CW/Day%2005/day%205%20cw%201/day%205%20cw%201.SLDPRT) | [🖼️ View](CW/Day%2005/day%205%20cw%201/Screenshot%202025-10-20%20122707.png) | - | [📖 Read More](CW/Day%2005/day%205%20cw%201/README.md) |
-| **CW Day 05-2** | [📥 Download](CW/Day%2005/day%205%20cw%202/day%205%20cw%202.SLDPRT) | [🖼️ View](CW/Day%2005/day%205%20cw%202/Screenshot%202025-10-20%20122757.png) | - | [📖 Read More](CW/Day%2005/day%205%20cw%202/README.md) |
+| **CW Day 05-1** | [📥 Download](CW/Day%2005/day%205%20cw%201/day%205%20cw%201.SLDPRT) | <img src="CW/Day%2005/day%205%20cw%201/Screenshot%202025-10-20%20122707.png" alt="CW Day 05-1 preview" width="120" /> | - | [📖 Read More](CW/Day%2005/day%205%20cw%201/README.md) |
+| **CW Day 05-2** | [📥 Download](CW/Day%2005/day%205%20cw%202/day%205%20cw%202.SLDPRT) | <img src="CW/Day%2005/day%205%20cw%202/Screenshot%202025-10-20%20122757.png" alt="CW Day 05-2 preview" width="120" /> | - | [📖 Read More](CW/Day%2005/day%205%20cw%202/README.md) |
 
 </div>
 
@@ -58,8 +58,8 @@ This repository showcases a comprehensive collection of SOLIDWORKS projects feat
 | **HW Day 4-1** | [📥 Download](HW/Day%2004/hw%201%20day%204/02.SLDPRT) | [🖼️ Multi-View](HW/Day%2004/hw%201%20day%204/README.md) | - | [📖 Read More](HW/Day%2004/hw%201%20day%204/README.md) |
 | **HW Day 4-2** | [📥 Download](HW/Day%2004/hw%202%20day%204/01.SLDPRT) | [🖼️ Multi-View](HW/Day%2004/hw%202%20day%204/README.md) | - | [📖 Read More](HW/Day%2004/hw%202%20day%204/README.md) |
 | **Chutir Extra HW** | [📥 Download Assembly](HW/Chutir%20extra%20hw/Assem1.SLDASM) <br> [📥 Bolt](HW/Chutir%20extra%20hw/bolt.SLDPRT) <br> [📥 Nut](HW/Chutir%20extra%20hw/nut.SLDPRT) | - | - | [📖 Read More](HW/Chutir%20extra%20hw/README.md) |
-| **HW Day 5-1** | [📥 Download](HW/Day%205/hw%2001%20day%205/hw%2001%20day%205%20drill.SLDPRT) | [🖼️ View](HW/Day%205/hw%2001%20day%205/Screenshot%202025-10-19%20225850.png) | - | [📖 Read More](HW/Day%205/hw%2001%20day%205/README.md) |
-| **HW Day 5-2** | [📥 Download](HW/Day%205/hw%2002%20day%205/hw%2002%20day%205%20spanner%20main.SLDPRT) | [🖼️ View](HW/Day%205/hw%2002%20day%205/Screenshot%202025-10-20%20120639.png) | - | [📖 Read More](HW/Day%205/hw%2002%20day%205/README.md) |
+| **HW Day 05-1** | [📥 Download](HW/Day%205/hw%2001%20day%205/hw%2001%20day%205%20drill.SLDPRT) | <img src="HW/Day%205/hw%2001%20day%205/Screenshot%202025-10-19%20225850.png" alt="HW Day 05-1 preview" width="120" /> | - | [📖 Read More](HW/Day%205/hw%2001%20day%205/README.md) |
+| **HW Day 05-2** | [📥 Download](HW/Day%205/hw%2002%20day%205/hw%2002%20day%205%20spanner%20main.SLDPRT) | <img src="HW/Day%205/hw%2002%20day%205/Screenshot%202025-10-20%20120639.png" alt="HW Day 05-2 preview" width="120" /> | - | [📖 Read More](HW/Day%205/hw%2002%20day%205/README.md) |
 
 </div>
 
