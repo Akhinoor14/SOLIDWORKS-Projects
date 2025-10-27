@@ -3,8 +3,9 @@
 <div align="center">
 
 ![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-Projects-red?style=for-the-badge&logo=solidworks)
-![Projects](https://img.shields.io/badge/Projects-12+-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-16+-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-Projects-gold?style=for-the-badge)
 
 ### 🚀 **Professional SOLIDWORKS Learning Portfolio**
 *Complete collection of coursework and homework assignments with interactive downloads*
@@ -18,6 +19,26 @@ This repository showcases a comprehensive collection of SOLIDWORKS projects feat
 </div>
 
 ---
+
+## 🔥 **NEW! Day 06 Assembly Projects**
+
+<div align="center">
+
+### 🏗️ **Advanced Assembly Mastery Achieved!**
+
+[![New Assembly Projects](https://img.shields.io/badge/🔥_NEW-Assembly_Projects-red?style=for-the-badge&logo=solidworks)](CW/Day%2006/)
+[![Multi-Part Design](https://img.shields.io/badge/🔧_Multi--Part-Design_Mastery-blue?style=for-the-badge)](CW/Day%2006/cw%2002%20day%206/)
+[![Independent Assembly](https://img.shields.io/badge/🏆_Independent-Assembly_Achievement-gold?style=for-the-badge)](HW/Day%2006/hw%201%20day%206/)
+
+**Latest Achievement:** Master-level assembly creation with **6+ component integration** and **independent multi-part design!**
+
+| 🎯 **Project** | 📁 **Type** | 🔧 **Components** | 🚀 **Access** |
+|:---:|:---:|:---:|:---:|
+| **CW Day 06-1** | Basic Assembly | 3 Parts + Assembly | [🔧 **Explore**](CW/Day%2006/cw%2001%20day%206/) |
+| **CW Day 06-2** | Advanced Assembly | 6+ Parts + Assembly | [🏗️ **Explore**](CW/Day%2006/cw%2002%20day%206/) |
+| **HW Day 06-1** | Independent Assembly | 5 Parts + Assembly | [🏆 **Explore**](HW/Day%2006/hw%201%20day%206/) |
+
+</div>
 
 ---
 
@@ -40,6 +61,8 @@ This repository showcases a comprehensive collection of SOLIDWORKS projects feat
 | **CW Day 04 - Spot Test** | [📥 Download](CW/Day%2004/spot%20test%20Day%2004/cw%20spot%20test.SLDPRT) | [🖼️ View](CW/Day%2004/spot%20test%20Day%2004/Screenshot%202025-10-13%20032734.png) | - | [📖 Read More](CW/Day%2004/spot%20test%20Day%2004/README.md) |
 | **CW Day 05-1** | [📥 Download](CW/Day%2005/day%205%20cw%201/day%205%20cw%201.SLDPRT) | <img src="CW/Day%2005/day%205%20cw%201/Screenshot%202025-10-20%20122707.png" alt="CW Day 05-1 preview" width="120" /> | - | [📖 Read More](CW/Day%2005/day%205%20cw%201/README.md) |
 | **CW Day 05-2** | [📥 Download](CW/Day%2005/day%205%20cw%202/day%205%20cw%202.SLDPRT) | <img src="CW/Day%2005/day%205%20cw%202/Screenshot%202025-10-20%20122757.png" alt="CW Day 05-2 preview" width="120" /> | - | [📖 Read More](CW/Day%2005/day%205%20cw%202/README.md) |
+| **CW Day 06-1** | [📥 Assembly](CW/Day%2006/cw%2001%20day%206/day%206%20assembly.SLDASM) | [🖼️ View](CW/Day%2006/cw%2001%20day%206/Screenshot%202025-10-27%20135102.png) | 🔧 **Assembly** | [📖 Read More](CW/Day%2006/cw%2001%20day%206/README.md) |
+| **CW Day 06-2** | [📥 Assembly](CW/Day%2006/cw%2002%20day%206/day%206%20cw%202%20%20assembly.SLDASM) | [🖼️ View](CW/Day%2006/cw%2002%20day%206/Screenshot%202025-10-27%20141129.png) | 🏗️ **Multi-Part** | [📖 Read More](CW/Day%2006/cw%2002%20day%206/README.md) |
 
 </div>
 
@@ -60,6 +83,7 @@ This repository showcases a comprehensive collection of SOLIDWORKS projects feat
 | **Chutir Extra HW** | [📥 Download Assembly](HW/Chutir%20extra%20hw/Assem1.SLDASM) <br> [📥 Bolt](HW/Chutir%20extra%20hw/bolt.SLDPRT) <br> [📥 Nut](HW/Chutir%20extra%20hw/nut.SLDPRT) | - | - | [📖 Read More](HW/Chutir%20extra%20hw/README.md) |
 | **HW Day 05-1** | [📥 Download](HW/Day%205/hw%2001%20day%205/hw%2001%20day%205%20drill.SLDPRT) | <img src="HW/Day%205/hw%2001%20day%205/Screenshot%202025-10-19%20225850.png" alt="HW Day 05-1 preview" width="120" /> | - | [📖 Read More](HW/Day%205/hw%2001%20day%205/README.md) |
 | **HW Day 05-2** | [📥 Download](HW/Day%205/hw%2002%20day%205/hw%2002%20day%205%20spanner%20main.SLDPRT) | <img src="HW/Day%205/hw%2002%20day%205/Screenshot%202025-10-20%20120639.png" alt="HW Day 05-2 preview" width="120" /> | - | [📖 Read More](HW/Day%205/hw%2002%20day%205/README.md) |
+| **HW Day 06-1** | [📥 Assembly](HW/Day%2006/hw%201%20day%206/day%206%20hw%20Assem.SLDASM) | [🖼️ View](HW/Day%2006/hw%201%20day%206/Screenshot%202025-10-27%20140310.png) | 🏗️ **5-Part Assembly** | [📖 Read More](HW/Day%2006/hw%201%20day%206/README.md) |
 
 </div>
 
@@ -85,9 +109,12 @@ SOLIDWORKS-Projects/
 │       ├── cw 1 day 4/
 │       ├── cw 2 day 4/
 │       └── spot test Day 04/
-│   └── Day 05/
-│       ├── day 5 cw 1/
-│       └── day 5 cw 2/
+│   ├── Day 05/
+│   │   ├── day 5 cw 1/
+│   │   └── day 5 cw 2/
+│   └── Day 06/ ⭐ **NEW!**
+│       ├── cw 01 day 6/ (Assembly Project)
+│       └── cw 02 day 6/ (Multi-Part Assembly)
 ├── HW/
 │   ├── Chutir extra hw/
 │   ├── Day 01/
@@ -99,12 +126,14 @@ SOLIDWORKS-Projects/
 │   ├── Day 03/
 │   │   ├── hw 1 day 03/
 │   │   └── hw 2 day 03/
-│   └── Day 04/
-│       ├── hw 1 day 4/
-│       └── hw 2 day 4/
-│   └── Day 5/
-│       ├── hw 01 day 5/
-│       └── hw 02 day 5/
+│   ├── Day 04/
+│   │   ├── hw 1 day 4/
+│   │   └── hw 2 day 4/
+│   ├── Day 5/
+│   │   ├── hw 01 day 5/
+│   │   └── hw 02 day 5/
+│   └── Day 06/ ⭐ **NEW!**
+│       └── hw 1 day 6/ (5-Part Independent Assembly)
 ├── LICENSE
 └── README.md
 ```
@@ -120,5 +149,5 @@ SOLIDWORKS-Projects/
 
 ---
 
-*Last updated: October 13, 2025*
+*Last updated: October 27, 2025 | **NEW:** Day 06 Assembly Projects Added! 🔥*
 
