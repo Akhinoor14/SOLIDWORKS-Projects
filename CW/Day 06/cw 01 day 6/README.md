@@ -1,87 +1,39 @@
-# CW Day 06 - Classwork 1 (Assembly Project)
+# CW 01 - Day 06
 
-## 📋 Project Overview
-Advanced Day 06 classwork focusing on SOLIDWORKS assembly creation with multiple parts and components integration.
+## Project Overview
+This is a Class Work project featuring a 2-part mechanical assembly. The project includes detailed SOLIDWORKS files with proper constraints, relations, and technical specifications designed to enhance CAD modeling skills.
 
-## 🖼️ Interactive Design Preview
+## Files Included
+- **Assembly File**: [day 6 assembly.SLDASM](day 6 assembly.SLDASM)
+- **Part File 1**: [cw 01 day 6.SLDPRT](cw 01 day 6.SLDPRT)
+- **Part File 2**: [cw 01 day 6 part 2 pin.SLDPRT](cw 01 day 6 part 2 pin.SLDPRT)
+- **Screenshot**: [Screenshot 2025-10-27 135102.png](Screenshot 2025-10-27 135102.png)
 
-### 🎯 Assembly Screenshot
-![Assembly Design](Screenshot%202025-10-27%20135102.png)
-*Completed assembly showing integrated parts and components*
+## Preview
+![CW 01 - Day 06 Preview](Screenshot 2025-10-27 135102.png)
 
-## 🚀 **Quick Access & Download**
+## Download Instructions
+1. Click on each file link above to download
+2. Open the assembly file (day 6 assembly.SLDASM) in SOLIDWORKS
+3. Ensure all part files are in the same folder
+4. Check assembly constraints and relations
 
-<div align="center">
+## Project Details
+- **Day**: 6
+- **Type**: Class Work
+- **Project Number**: 1
+- **Total Parts**: 2
+- **Assembly File**: day 6 assembly.SLDASM
+- **Upload Date**: 10/28/2025
 
-### 📥 **Download SOLIDWORKS Files**
-[![Download Assembly](https://img.shields.io/badge/📥_Download-Assembly_File-blue?style=for-the-badge&logo=download)](day%206%20assembly.SLDASM)
-[![Download Part 1](https://img.shields.io/badge/📥_Download-Main_Part-green?style=for-the-badge&logo=download)](cw%2001%20day%206.SLDPRT)
-[![Download Part 2](https://img.shields.io/badge/📥_Download-Pin_Part-orange?style=for-the-badge&logo=download)](cw%2001%20day%206%20part%202%20pin.SLDPRT)
+## Technical Specifications
+- **Assembly Format**: SOLIDWORKS Assembly (.SLDASM)
+- **Part Format**: SOLIDWORKS Part (.SLDPRT)
+- **Number of Components**: 2 parts
+- **Preview Format**: .PNG image
+- **Compatibility**: SOLIDWORKS 2020 or later
+- **File Size**: 497.96 KB total
 
----
-
-### 🎯 **Quick Navigation**
-| 📁 **File Type** | 📂 **File Name** | 🔗 **Quick Access** |
-|:---:|:---:|:---:|
-| 🔧 **Assembly** | `day 6 assembly.SLDASM` | [📥 **Download**](day%206%20assembly.SLDASM) |
-| 🔩 **Main Part** | `cw 01 day 6.SLDPRT` | [📥 **Download**](cw%2001%20day%206.SLDPRT) |
-| 📌 **Pin Part** | `cw 01 day 6 part 2 pin.SLDPRT` | [📥 **Download**](cw%2001%20day%206%20part%202%20pin.SLDPRT) |
-| 📸 **Screenshot** | `Screenshot 2025-10-27 135102.png` | [🖼️ **View**](Screenshot%202025-10-27%20135102.png) |
-
-</div>
-
-## 📂 File Contents
-
-### 🔧 SOLIDWORKS Assembly Files
-- **`day 6 assembly.SLDASM`** - Main assembly file containing all integrated parts
-  - 📥 **[Direct Download Link](day%206%20assembly.SLDASM)**
-
-### 🔩 SOLIDWORKS Part Files
-- **`cw 01 day 6.SLDPRT`** - Primary component part file
-  - 📥 **[Direct Download Link](cw%2001%20day%206.SLDPRT)**
-- **`cw 01 day 6 part 2 pin.SLDPRT`** - Pin component for assembly
-  - 📥 **[Direct Download Link](cw%2001%20day%206%20part%202%20pin.SLDPRT)**
-
-### 📸 Visual Documentation
-- **`Screenshot 2025-10-27 135102.png`** - Assembly design screenshot
-
-## 🎯 Assignment Details
-- **Assignment:** CW Day 06-1 (Assembly Focus)
-- **Date:** October 27, 2025
-- **Type:** Advanced Assembly Classwork
-- **Status:** Completed ✅
-- **Focus:** Multi-part assembly creation and integration
-
-## 📋 File Structure
-```
-cw 01 day 6/
-├── day 6 assembly.SLDASM               # Main assembly file
-├── cw 01 day 6.SLDPRT                  # Primary part component
-├── cw 01 day 6 part 2 pin.SLDPRT      # Pin component
-├── Screenshot 2025-10-27 135102.png    # Assembly screenshot
-└── README.md                           # This documentation
-```
-
-## 🔍 Assembly Features
-- **Multi-Part Integration:** Multiple components working together
-- **Pin Connection:** Specialized pin component for mechanical connection
-- **Professional Assembly:** Industry-standard assembly practices demonstrated
-
-## 📝 Learning Objectives
-- Master SOLIDWORKS assembly environment
-- Understand part relationships and constraints
-- Develop multi-component design skills
-- Practice professional assembly documentation
-
-## 🚀 Skills Demonstrated
-- Advanced assembly creation
-- Multi-part coordination
-- Constraint application and management
-- Professional mechanical design principles
-- Component integration techniques
-
-## 🔗 Related Day 06 Projects
-- **Next:** [CW Day 06-2](../cw%2002%20day%206/) - Advanced multi-component assembly
 
 ---
-*Day 06 Assembly Project - Advanced SOLIDWORKS Integration*
+*This README was auto-generated by the SOLIDWORKS Upload System on 10/28/2025, 8:07:19 AM*
