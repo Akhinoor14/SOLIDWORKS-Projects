@@ -6,7 +6,7 @@ This project uses a potentiometer to control the blinking pattern of 5 LEDs base
 Md Akhinoor Islam  
 ESE (Energy Science and Engineering), KUET
 
-## 🔧 Components Used
+## � Components Used
 - Arduino UNO
 - Breadboard
 - 5 x LED
@@ -19,13 +19,13 @@ ESE (Energy Science and Engineering), KUET
 - LEDs connected to digital pins D2–D6 via 220Ω resistors
 - Blinking logic controlled by analog voltage level from potentiometer
 
-🖼️ **Circuit Diagram:**  
+�️ **Circuit Diagram:**  
 ![circuit](circuit.png)
 
 ## 🔗 Simulation
 [🔗 https://www.tinkercad.com/things/c3b3O8IGfQV-01-led-pattern] 
 
-## 📂 Folder Contents
+## � Folder Contents
 
 - `README.md` → This file  
 - `circuit.png` → Your Tinkercad screenshot  
