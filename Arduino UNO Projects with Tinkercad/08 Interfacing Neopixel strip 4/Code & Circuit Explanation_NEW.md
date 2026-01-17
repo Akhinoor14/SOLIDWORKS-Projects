@@ -239,7 +239,7 @@ Arduino D6 ──┬── 470Ω ──→ DIN (NeoPixel)
 ```cpp
 /*
  * প্রজেক্ট: NeoPixel Strip নিয়ন্ত্রণ (4 LEDs)
- * লেখক: মোঃ আখিনুর ইসলাম
+ * লেখক: Md. Akhinoor Islam
  * বিবরণ: 4-LED NeoPixel strip-এ sequential RGB animation
  */
 
@@ -778,7 +778,7 @@ void knightRider() {
 
 ## 👨‍🎓 লেখক
 
-**মোঃ আখিনুর ইসলাম**  
+**Md. Akhinoor Islam**  
 📚 Energy Science and Engineering (ESE)  
 🏫 Khulna University of Engineering & Technology (KUET)  
 🌐 [GitHub Profile](https://github.com/Akhinoor14)

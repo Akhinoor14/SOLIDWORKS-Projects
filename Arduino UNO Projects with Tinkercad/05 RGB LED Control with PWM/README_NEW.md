@@ -239,7 +239,7 @@ Blue:   ░░░░░░░░░░░░░░░░░░██████
 ```cpp
 /*
  * Project: RGB LED Control with PWM
- * Author: Md Akhinoor Islam
+ * Author: Md. Akhinoor Islam
  * Description: Smoothly transition between RGB colors
  */
 

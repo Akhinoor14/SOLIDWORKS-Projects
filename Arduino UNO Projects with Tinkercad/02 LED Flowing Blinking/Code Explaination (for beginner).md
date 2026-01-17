@@ -485,7 +485,7 @@ delay(500);
 
 ## 👨‍🎓 প্রজেক্ট তৈরি করেছেন:
 
-**Md Akhinoor Islam**  
+**Md. Akhinoor Islam**  
 Energy Science and Engineering (ESE)  
 Khulna University of Engineering & Technology (KUET)
 

@@ -1,1 +1,0 @@
-https://www.tinkercad.com/things/gSZ31qRzEEy-23-digital-voltmeter-with-attiny85

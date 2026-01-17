@@ -165,7 +165,7 @@ LED 5: ░░░░░░░░░░░░░░░░█░░░░░░░�
 ```cpp
 /*
  * Project: LED Sequential Blink
- * Author: Md Akhinoor Islam
+ * Author: Md. Akhinoor Islam
  * Description: 5 LEDs blink one by one in a loop
  */
 

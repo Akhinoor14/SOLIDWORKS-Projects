@@ -148,7 +148,7 @@ The project operates on a simple principle of **analog voltage division and thre
 ```cpp
 /*
  * Project: LED Pattern Project with Potentiometer
- * Author: Md Akhinoor Islam
+ * Author: Md. Akhinoor Islam
  * Description: Control 5 LEDs based on potentiometer voltage
  */
 

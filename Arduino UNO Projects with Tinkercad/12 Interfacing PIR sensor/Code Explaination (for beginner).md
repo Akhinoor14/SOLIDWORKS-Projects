@@ -1002,7 +1002,7 @@ Range কমাতে:
 
 ## 👨‍🎓 লেখক
 
-**Md. Akhinoor Islam**  
+**মো. আখিনুর ইসলাম**  
 📚 Energy Science and Engineering (ESE)  
 🏫 Khulna University of Engineering & Technology (KUET)
 

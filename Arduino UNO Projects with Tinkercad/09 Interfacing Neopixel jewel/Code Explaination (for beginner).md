@@ -236,7 +236,7 @@ Power Smoothing:
 ```cpp
 /*
  * প্রজেক্ট: NeoPixel Jewel (7 LEDs) নিয়ন্ত্রণ
- * লেখক: Md. Akhinoor Islam
+ * লেখক: মোঃ আখিনুর ইসলাম
  * বিবরণ: 7-LED NeoPixel Jewel-এ sequential RGB animation
  */
 
@@ -790,7 +790,7 @@ void oppositePairs() {
 
 ## 👨‍🎓 লেখক
 
-**Md. Akhinoor Islam**  
+**মোঃ আখিনুর ইসলাম**  
 📚 Energy Science and Engineering (ESE)  
 🏫 Khulna University of Engineering & Technology (KUET)  
 🌐 [GitHub Profile](https://github.com/Akhinoor14)

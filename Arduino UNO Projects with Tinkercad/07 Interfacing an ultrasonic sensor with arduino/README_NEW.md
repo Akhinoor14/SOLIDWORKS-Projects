@@ -351,7 +351,7 @@ For higher accuracy, measure temperature and adjust calculation.
 ```cpp
 /*
  * Project: Ultrasonic Distance Measurement
- * Author: Md Akhinoor Islam
+ * Author: Md. Akhinoor Islam
  * Description: HC-SR04 sensor measures distance and displays via serial
  */
 

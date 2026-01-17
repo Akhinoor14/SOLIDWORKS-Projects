@@ -132,7 +132,7 @@ Arduino → Breadboard Power Rails:
 ```cpp
 /*
  * প্রজেক্ট: LED Pattern with Potentiometer
- * লেখক: Md Akhinoor Islam
+ * লেখক: Md. Akhinoor Islam
  * বিবরণ: Potentiometer ঘুরিয়ে ৫টি LED নিয়ন্ত্রণ করা
  */
 
